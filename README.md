@@ -29,7 +29,7 @@ Soy un **apasionado de la programación** con un gran interés en entender y exp
 
 ## 🚀 Proyecto en curso
 
-Actualmente, estoy trabajando en un **proyecto grande** que combina mis conocimientos en programación de bajo nivel y machine learning. Este proyecto me está permitiendo profundizar mis habilidades y aprender nuevas tecnologías que amplían mi horizonte profesional.
+Actualmente, estoy trabajando en un **proyecto grande.**
 
 ---
 
