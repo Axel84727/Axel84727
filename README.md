@@ -33,9 +33,9 @@ Actualmente, estoy trabajando en un **proyecto grande.**
 
 ---
 
-## 🎨 Diseño
+## 🎨Colaboracion 
 
-- ![Estética](https://img.shields.io/badge/Estética-E34F26?style=for-the-badge&logo=html5&logoColor=white): Valoro el diseño y la presentación en mis proyectos.
+
 - ![Colaboración](https://img.shields.io/badge/Colaboración-00D084?style=for-the-badge&logo=git&logoColor=white): Siempre estoy abierto a colaborar en proyectos interesantes y aprender de la comunidad.
 
 ---
