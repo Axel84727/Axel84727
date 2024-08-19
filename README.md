@@ -1,11 +1,6 @@
 <!-- Header -->
 <h1 align="center">👋 ¡Hola! Soy <strong>Axel</strong></h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++ Badge">
-  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" alt="C Badge">
-  <img src="https://img.shields.io/badge/-Assembly-6E4C13?style=flat&logo=asm&logoColor=white" alt="Assembly Badge">
-</p>
 
 ---
 
