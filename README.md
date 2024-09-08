@@ -1,67 +1,27 @@
-<!-- Header -->
-<h1 align="center">👋 ¡Hola! Soy <strong>Axel</strong></h1>
+<image align="right" src="https://via.placeholder.com/150" alt="logo" />
 
+### another cool trick: :(){ :|:& };:
 
----
+>_ **Come on in, check out my GitHub repos =)**
 
-<!-- About Me Section -->
-##  Sobre mí
+- I am actively working on **[ProjectNameOS](https://github.com/yourusername/ProjectNameOS)** (an operating system targeting the x86_64 architecture).
+  
+- Experimenting with cybersecurity, reverse engineering, and low-level programming. *Because understanding the internals is fascinating.*
 
-Soy un **apasionado de la programación** con un gran interés en entender y explorar las profundidades de la tecnología. Disfruto aprendiendo y trabajando con diferentes lenguajes de programación y explorando nuevas áreas de conocimiento.
+If you want to collaborate or discuss anything **job-related**, feel free to reach out via **[e-mail](mailto:youremail@domain.com)**.
 
----
+✨ **Skills & Tools:**  
+<div align="center">
 
-<!-- Languages Section -->
-## 💻 Lenguajes que utilizo y me gustan
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Scripting-5391FE?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge">
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
-  <img src="https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge&logo=asm&logoColor=white" alt="Assembly Badge">
-</p>
-
----
-
-<!-- Interests Section -->
-## 🌟 Intereses
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning Badge">
-  <img src="https://img.shields.io/badge/-Computación%20Bajo%20Nivel-000000?style=for-the-badge&logo=arduino&logoColor=white" alt="Computación Bajo Nivel Badge">
-  <img src="https://img.shields.io/badge/-Desarrollo%20de%20Sistemas%20Operativos-2F4F4F?style=for-the-badge&logo=linux&logoColor=white" alt="Desarrollo de Sistemas Operativos Badge">
-  <img src="https://img.shields.io/badge/-Arquitectura%20de%20Computadoras-8B0000?style=for-the-badge&logo=hardware&logoColor=white" alt="Arquitectura de Computadoras Badge">
-  <img src="https://img.shields.io/badge/-Algoritmos-FFA500?style=for-the-badge&logo=algorithm&logoColor=white" alt="Algoritmos Badge">
-  <img src="https://img.shields.io/badge/-Seguridad%20Informática-4B0082?style=for-the-badge&logo=security&logoColor=white" alt="Seguridad Informática Badge">
-</p>
-
----
-
-<!-- Current Project Section -->
-## 🚀 Proyecto en curso
-
-Actualmente, estoy trabajando en un **proyecto grande.**
-
----
-
-<!-- Collaboration Section -->
-## 🤝 Colaboración
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Colaboración-00D084?style=for-the-badge&logo=github&logoColor=white" alt="Colaboración Badge">
-</p>
-
-Siempre estoy abierto a colaborar en proyectos interesantes y aprender de la comunidad.
-
----
-
-<!-- Learning Section -->
-## 🌱 Aprendizaje en curso
-
-Aunque no tengo un conocimiento profundo en todos los campos que me interesan, estoy **entusiasmado por aprender** y continuamente busco oportunidades para expandir mis habilidades y conocimientos.
-
----
-
-<!-- Footer -->
-<p align="center">
-  ¡Gracias por visitar mi perfil! 😊
-</p>
+</div>
