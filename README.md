@@ -8,7 +8,7 @@
 
 **\>\_** **_Bienvenid@,**
 
-**\>\_** Actualmente estoy aprendiendo lenguajes de programación como C, C++, Rust y Python, y explorando más sobre el mundo de la ciberseguridad.
+**\>\_** Actualmente estoy aprendiendo lenguajes de programación como C y C++, y explorando más sobre el mundo de la computacion de bajo nivel.
 
 Si tienes preguntas o quieres contactarme para temas laborales, no dudes en escribirme a [mi correo](mailto:axel84727@example.com).
 
@@ -20,7 +20,7 @@ Si tienes preguntas o quieres contactarme para temas laborales, no dudes en escr
 ---
 
 
-<img align="center" src="https://skillicons.dev/icons?i=linux,c,cpp,rust,python,java,bash,git,neovim,latex&perline=10">
+<img align="center" src="https://skillicons.dev/icons?i=git,java,c,cpp,python,bash&perline=10">
 
 ---
 
