@@ -10,7 +10,7 @@
 
 **\>\_** Actualmente estoy aprendiendo lenguajes de programación como C y C++, y explorando más sobre el mundo de la computacion de bajo nivel.
 
-Si tienes preguntas o quieres contactarme para temas laborales, no dudes en escribirme a [mi correo](mailto:axel84727@example.com).
+Si tienes preguntas o quieres contactarme para temas laborales, no dudes en contactarme.
 
 
 ✨ Herramientas y lenguajes que conozco:
