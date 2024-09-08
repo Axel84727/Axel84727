@@ -1,27 +1,29 @@
-<image align="right" src="https://via.placeholder.com/150" alt="logo" />
+<center>
 
-### another cool trick: :(){ :|:& };:
+<img align="left" src="https://cdnb.artstation.com/p/assets/images/images/045/503/681/original/dylan-momotokenartstation.gif?1642874513" alt="Metrics" width="200"> 
+<img align="right" src="https://komarev.com/ghpvc/?username=Axel84727&style=flat&color=313131&label=views&abbreviated=true">
+<img src="https://readme-typing-svg.demolab.com?font=VT323&duration=2000&pause=1000&color=9C9F8F&width=435&separator=%3C&lines=Hey%2C+it%C2%B4s+Axel84727%3Ccurrently%3A+Learning+arcane+arts%3Ccool+trick%3A+int+eax+%3D+((int(*)());%3Canother+cool+trick%3A+%3A()%7B+%3A%7C%3A%26+%7D;%3A">
 
->_ **Come on in, check out my GitHub repos =)**
+</center>
 
-- I am actively working on **[ProjectNameOS](https://github.com/yourusername/ProjectNameOS)** (an operating system targeting the x86_64 architecture).
-  
-- Experimenting with cybersecurity, reverse engineering, and low-level programming. *Because understanding the internals is fascinating.*
+**\>\_** **_Come on in, [check out my blog =)](https://Axel84727.github.io)_**
 
-If you want to collaborate or discuss anything **job-related**, feel free to reach out via **[e-mail](mailto:youremail@domain.com)**.
+**\>\_** I am actively working on [ByteOS](https://github.com/Axel84727/ByteOS) (an operating system for the i686 architecture).
 
-✨ **Skills & Tools:**  
-<div align="center">
+**\>\_** Lately flirting with the idea of ​​cybersec in networking and tools _(reverse engineering is cool)_.
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Scripting-5391FE?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+If you have **job-related** inquiries, please don't hesitate to connect with me via [e-mail](mailto:axel84727@example.com).
 
-</div>
+
+✨ Known cool tools:
+
+<center>
+
+---
+
+
+<img align="center" src="https://skillicons.dev/icons?i=linux,c,cpp,rust,python,java,bash,git,neovim,latex&perline=10">
+
+---
+
+</center>
