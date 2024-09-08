@@ -6,7 +6,7 @@
 
 </center>
 
-**\>\_** **_Bienvenid@, [echa un vistazo a mi blog =)](https://Axel84727.github.io)_**
+**\>\_** **_Bienvenid@,**
 
 **\>\_** Actualmente estoy aprendiendo lenguajes de programación como C, C++, Rust y Python, y explorando más sobre el mundo de la ciberseguridad.
 
