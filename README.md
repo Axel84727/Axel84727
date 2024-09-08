@@ -19,9 +19,10 @@ Si tienes preguntas o quieres contactarme para temas laborales, no dudes en cont
 
 ---
 
-
 <img align="center" src="https://skillicons.dev/icons?i=git,java,c,cpp,python,bash&perline=10">
 
 ---
 
 </center>
+
+<iframe src="https://giphy.com/embed/zAJ6oTcqDPEaIoycLe" width="480" height="480" style="border: none; overflow: hidden;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-pixelart-pickle-zAJ6oTcqDPEaIoycLe">via GIPHY</a></p>
